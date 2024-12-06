@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Probability of mismanaged plastic waste being emitted to the ocean",
+    "subtitle": "Mismanaged plastic waste is waste that is not recycled, incinerated, or kept in sealed landfills. It includes materials burned in open pits, dumped into seas or open waters, or disposed of in unsanitary landfills and dumpsites. A country's total does not include waste that is exported overseas, which may be at higher risk of entering the ocean.",
+    "citation": "Meijer et al. (2021)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/probability-mismanaged-plastic-ocean?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Philippines",
+      "Brazil",
+      "China",
+      "India",
+      "United States",
+      "Bangladesh",
+      "United Kingdom",
+      "Indonesia"
+    ]
+  },
+  "columns": {
+    "Probability of plastic being emitted to ocean": {
+      "titleShort": "Probability of mismanaged plastic waste being emitted to ocean",
+      "titleLong": "Probability of mismanaged plastic waste being emitted to ocean",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 146455,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Probability of mismanaged plastic waste being emitted to ocean” [dataset]. Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/146455.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-03"
+}

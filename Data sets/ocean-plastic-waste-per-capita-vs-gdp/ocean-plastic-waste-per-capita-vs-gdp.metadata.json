@@ -1,0 +1,59 @@
+{
+  "chart": {
+    "title": "Plastic waste emitted to the ocean per capita vs. GDP per capita",
+    "subtitle": "A country's total does not include waste that is exported overseas, which may be at higher risk of entering the ocean.",
+    "note": "GDP per capita is expressed in [international-$](#dod:int_dollar_abbreviation) at 2017 prices.",
+    "citation": "Meijer et al. (2021); Data compiled from multiple sources by World Bank",
+    "originalChartUrl": "https://ourworldindata.org/grapher/ocean-plastic-waste-per-capita-vs-gdp?v=1&csvType=full&useColumnShortNames=false"
+  },
+  "columns": {
+    "Mismanaged plastic waste to ocean per capita (kg per year)": {
+      "titleShort": "Per capita plastic waste emitted to the ocean",
+      "titleLong": "Per capita plastic waste emitted to the ocean",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 146462,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Per capita plastic waste emitted to the ocean” [dataset]. Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/146462.metadata.json"
+    },
+    "GDP per capita, PPP (constant 2017 international $)": {
+      "titleShort": "GDP per capita",
+      "titleLong": "GDP per capita - World Bank – In constant 2017 international $",
+      "descriptionShort": "This data is adjusted for inflation and for differences in the cost of living between countries.",
+      "descriptionKey": [
+        "This GDP per capita indicator provides information on economic growth and income levels from 1990.",
+        "This data is adjusted for inflation and for differences in the cost of living between countries.",
+        "This data is expressed in international-$ at 2017 prices.",
+        "For GDP per capita estimates in the very long run, see the [Maddison Project Database's indicator](https://ourworldindata.org/grapher/gdp-per-capita-maddison)."
+      ],
+      "shortUnit": "$",
+      "unit": "international-$ in 2017 prices",
+      "timespan": "1990-2022",
+      "type": "Numeric",
+      "owidVariableId": 905490,
+      "shortName": "ny_gdp_pcap_pp_kd",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "World Bank (2023) – with minor processing by Our World in Data",
+      "citationLong": "World Bank (2023) – with minor processing by Our World in Data. “GDP per capita – World Bank – In constant 2017 international $” [dataset]. World Bank, “World Bank World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905490.metadata.json"
+    },
+    "World regions according to OWID": {
+      "titleShort": "World regions according to OWID",
+      "titleLong": "World regions according to OWID",
+      "descriptionKey": [],
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Continent",
+      "owidVariableId": 900801,
+      "shortName": "owid_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "Our World in Data – processed by Our World in Data",
+      "citationLong": "Our World in Data – processed by Our World in Data. “World regions according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-03"
+}

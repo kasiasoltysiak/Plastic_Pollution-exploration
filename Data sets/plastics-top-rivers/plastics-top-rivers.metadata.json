@@ -1,0 +1,34 @@
+{
+  "chart": {
+    "title": "Rivers that contribute the most to ocean plastic pollution",
+    "subtitle": "The share of global ocean plastic pollution that comes from the world's ten largest emitting rivers.",
+    "citation": "Meijer et al. (2021)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/plastics-top-rivers?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Pasig (Philippines)",
+      "Tullahan (Philippines)",
+      "Ganges (India)",
+      "Ulhas (India)",
+      "Klang (Malaysia)",
+      "Meycauayan (Philippines)",
+      "Pampanga (Philippines)",
+      "Libmanan (Philippines)",
+      "Rio Grande de Mindanao (Philippines)",
+      "Agno (Philippines)"
+    ]
+  },
+  "columns": {
+    "Share of global plastics emitted to ocean": {
+      "titleShort": "Share of global plastics emitted to the ocean",
+      "titleLong": "Share of global plastics emitted to the ocean",
+      "unit": "",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 146465,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Share of global plastics emitted to the ocean” [dataset]. Meijer et al. (2021). More than 1000 rivers account for 80% of global riverine plastic emissions into the ocean. Science Advances. [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/146465.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-03"
+}

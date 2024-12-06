@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "title": "Mean product lifetime of plastic uses",
+    "subtitle": "Mean product lifetime (from production to disposal) of different uses of plastic products, measured in years.",
+    "citation": "Geyer et al. (2017)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/mean-product-lifetime-plastic?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Building and Construction",
+      "Consumer & Institutional Products",
+      "Electrical/Electronic",
+      "Industrial Machinery",
+      "Other sector",
+      "Packaging",
+      "Textiles",
+      "Transportation"
+    ]
+  },
+  "columns": {
+    "Mean product lifetime (years)": {
+      "titleShort": "Mean product lifetime (years)",
+      "titleLong": "Mean product lifetime (years)",
+      "unit": "years",
+      "timespan": "",
+      "type": "Numeric",
+      "owidVariableId": 97693,
+      "citationShort": " – processed by Our World in Data",
+      "citationLong": " – processed by Our World in Data. “Mean product lifetime (years)” [dataset]. Plastic product lifetime, production, waste by source - Geyer et al. (2017) [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/97693.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-03"
+}
